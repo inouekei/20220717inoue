@@ -34,15 +34,16 @@ p{
 
 #firstview{
   margin-bottom: 50pt;
-  padding: 60pt 0pt 0pt 200pt;
+  padding: 5vh 0pt 0pt 20vw;
   height: 50vh;
-  background: url("../img/firstview.jpg") no-repeat right;
-  background-size: contain;
+  background: url("../img/firstview.jpg") no-repeat right top;
+  background-size: 50vw;
   color: #666;
 }
 
 .firstview-ttl-en{
   margin-bottom: 40pt;
+  line-height: 80px;
   font-size: 45pt;
   color: #c71585;
   font-weight: bolder;
@@ -75,7 +76,7 @@ p{
 }
 
 #news{
-  padding: 5pt 0pt 60pt 20vw;
+  padding: 5pt 10vw 60pt;
 }
 
 .tbl-news{
@@ -183,12 +184,12 @@ p{
 }
 
 #blog{
-  padding: 5pt 15vw 30pt;
+  padding: 5pt 5vw 30pt;
   background-color: #f0f0f0;
 }
 
 .blog-wrapper {
-  width: 100%;
+  width: 680pt;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -253,7 +254,7 @@ p{
 }
 
 #company{
-  padding: 5pt 0pt 60pt 20vw;
+  padding: 5pt 20vw 20vw;
 }
 
 .tbl-com {
