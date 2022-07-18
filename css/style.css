@@ -76,11 +76,11 @@ p{
 }
 
 #news{
-  padding: 5pt 10vw 60pt;
+  padding: 5pt 20vw 60pt;
 }
 
-.tbl-news{
-  width: 540pt;
+.tbl-news{  
+  width: 100%;
   border-collapse: collapse;
   border-top: 2px solid #ccc;
   border-bottom: 2px solid #ccc;
@@ -258,7 +258,7 @@ p{
 }
 
 .tbl-com {
-  width: 60%;
+  width: 100%;
   border-collapse: collapse;
   color: #666;
 }
